@@ -1,0 +1,10 @@
+* {
+  /* overflow-x: hidden; */
+  /* max-width: 100%; */
+}
+
+/* Override Bootstrap Class */
+.btn {
+  background-color: red !important;
+  color: #fff !important;
+}
